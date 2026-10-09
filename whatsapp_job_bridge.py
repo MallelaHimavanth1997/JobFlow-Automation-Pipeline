@@ -12,11 +12,11 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # --- CONFIGURATION ---
-GROUP_NAME = "Data Eng REQ ( Himavanth )"
+GROUP_NAME = "Group name Or Chat name"
 WEBAPP_URL = "https://script.google.com/macros/s/AKfycbyg99x7PbtfhlglNyfhgiLwXzdbrEsPVDC2smNJRtTyQHSbLUXzU-vwxQewdC4ac1p7/exec"
-TIMEZONE = ZoneInfo("America/Chicago")
+TIMEZONE = ZoneInfo("America/Chicago")Any Time Zone
 START_HOUR = 8   
-END_HOUR = 24    
+END_HOUR = 18    
 # ---------------------
 
 driver = None
