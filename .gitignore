@@ -1,0 +1,6 @@
+# Ignore WhatsApp login session and cookies
+whatsapp_session/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
